@@ -11,5 +11,5 @@
 - Github  : [Page](https://github.com/Stanley-GF)
 - Discord [Page](Stanley#0001)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Stanley-GF)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Stanley-GF)](https://github.com/anuraghazra/github-readme-stats)
 
