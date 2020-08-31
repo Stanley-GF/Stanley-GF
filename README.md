@@ -8,5 +8,9 @@
 - [Discord](Stanley#0001)
 - [Youtube](https://youtube.com/stanleydev)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Stanley-GF)](https://github.com/anuraghazra/github-readme-stats)
+### Website 
+- [DiscordREQ](https://discord-req.xyz)
+- [rhinoshield Bot](https://rhinoshield-bot.xyz)
+
+[![Stanley github stats](https://github-readme-stats.vercel.app/api?username=Stanley-GF)](https://github.com/anuraghazra/github-readme-stats)
 
