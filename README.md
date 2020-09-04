@@ -13,4 +13,4 @@
 - [Rhinoshield-Bot](https://rhinoshield-bot.xyz)
 
 [![Stanley github stats](https://github-readme-stats.vercel.app/api?username=Stanley-GF)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZelliDev&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-GF&show_icons=true&count_private=true)
