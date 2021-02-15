@@ -1,1 +1,1 @@
-# #1 Fan of Gravity Falls - Sometimes I fè le maik. - #1 follower of my followers too
+# #1 Fan of Gravity Falls - The only person i follow is [freiik](https://github.com/FreiikDev)
