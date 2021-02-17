@@ -1,1 +1,1 @@
-# #1 Fan of Gravity Falls - The only person i follow is [freiik](https://github.com/FreiikDev)
+# #1 Fan of Gravity Falls - No follower is too much!
