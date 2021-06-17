@@ -1,4 +1,4 @@
-# #1 Fan of Gravity Falls - No follower is too much!
+# #1 Fan of Gravity Falls
 
 ## give me your money
 Bitcoin: `bc1qpxqkyz62d6e6yrpjjp25q4pr3vjklx9mxn9fn4`
