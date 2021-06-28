@@ -1,6 +1,6 @@
 # #1 Fan of Gravity Falls
 
-## give me your money
+## Cryptocurrency Donation Links:
 Bitcoin: `bc1qpxqkyz62d6e6yrpjjp25q4pr3vjklx9mxn9fn4`
 
 Etherum: `0x3841C8F8d9D7428fF95c8771e0bd22B7bd02dD6e`
