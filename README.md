@@ -1,16 +1,13 @@
-### Hi there 👋
+# End of 13yo dev, Stanley-GF, still #1 fan of gravity falls 😄
 
-<!--
-**Stanley-GF/Stanley-GF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I don't feel any interest anymore when I create malware. I no longer feel any interest in creating projects for it to be stolen by pitiful skids.
 
-Here are some ideas to get you started:
+I would like to apologize to all the people who had problems with PirateStealer or with me personally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All good adventures come to an end.
+
+Thank you for everything
+
+- Stanley
+
+![gravity-falls](https://user-images.githubusercontent.com/66573599/137557786-34f1e6eb-8224-4fe0-9be1-28547d630b57.gif)
