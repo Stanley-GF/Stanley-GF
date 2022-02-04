@@ -11,4 +11,4 @@ Thank you to all guys that supported me on the projects/tools I made.
 Ah and one last thing, I've deleted the PirateStealer github repos. I’m sorry for doing the things that I did, such as making PirateStealer and any malware. I apologize, although words may not be enough to describe it
 
 I'm on Discord since 2016, and now, it's a goodbye
-- Stanley
+- [Stanley](https://discord.gg/AW3DVmt4qk)
